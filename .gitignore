@@ -1,0 +1,13 @@
+# virtual environment
+venv/
+
+# datasets
+LADOS.v2i.png-mask-semantic/
+
+# python cache
+__pycache__/
+*.pyc
+
+# system files
+.DS_Store
+Thumbs.db
